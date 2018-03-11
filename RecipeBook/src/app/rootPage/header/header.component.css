@@ -1,0 +1,9 @@
+.navbar-brand {
+    position: center;
+   
+    top: 15px;
+}
+.nav navbar-nav {
+   display: inline;
+   top: 20px;
+}

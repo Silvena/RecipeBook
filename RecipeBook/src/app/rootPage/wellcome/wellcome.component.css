@@ -1,0 +1,15 @@
+
+img {
+    margin: auto;
+    height: auto;
+    width: 100%;
+  }
+  
+  ngb-carousel {
+      height: auto;
+      width: 100%;
+    background-color: black;
+  }
+  .container {
+    background-color: lightgray;
+  }
