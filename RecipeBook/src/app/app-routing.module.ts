@@ -16,12 +16,6 @@ const appRoutes: Routes = [
   component: ShoppingListComponent },
   // {path: '**', component: PageNotFoundComponent}
 
-  /*
-  { path: 'recipes', loadChildren: './recipes/recipes.module#RecipesModule'},
-   lazzy loading is on hollyday  don't wont to work for me
-, canActivate: [AuthGuard]
-, canLoad: [AuthGuard]
-*/
 ];
 
 @NgModule({
